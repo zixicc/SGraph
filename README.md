@@ -9,3 +9,5 @@ Follow the step if you want to test SGraph:
 3. Replace $SPARK_HOME$/bin/compute-classpath.sh with configs/compute-classpath.sh
 
 4. Make org.apache.spark.util.collection.PrimitiveVector extends Serializable
+
+5. Recompile Spark
